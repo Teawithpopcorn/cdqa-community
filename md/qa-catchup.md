@@ -8,6 +8,19 @@ controls: true
 
 --
 
+### 5 April 2016
+* XuXiao shared the Accessibility test.
+* Yudi updated the automation upskill plan and talk about the acceptance criteria.
+* CuiLiang showed two demos about UI automation testing for web and mobile.
+* ZhangXiao updated the workshop trello list and discuss with team the workshop plan.
+* [Action]Pick up one or two scenario to practice the automation testing - everyone.
+* [Action]Add all of QAs into trello list - ZhangXiao.
+* [Action]Spike the time for create a test environment both Windows and Linux - Yadi.
+* [Action]Prepare the services which will use in workshop - FuBiao & XuXiao.
+* [Action]Pick up card in Trello to prepare our workshop! - everyone.
+
+--
+
 ### 21 March 2016
 * Updated automation upskill plan regarding how to verify the achievement of a capability - Yudi & Yao 
 * Taoli shared using Velocity tool and Spring framework for API automation testing.
@@ -16,8 +29,7 @@ controls: true
 * [Action]Create jinshuju investigation for QA workshop 2016 survey - Yao
 * [Action]Taoli will upload the code in git - Taoli
 
-
-
+--
 
 ### 19 March 2015
 
